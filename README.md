@@ -1,2 +1,2 @@
-# Wordle Suggestions
-This project will suggest a word to guess for wordle based on user imputs. Hopefully!
+# Python Coding Practice
+These projects are all just practice.
